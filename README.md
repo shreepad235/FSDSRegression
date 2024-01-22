@@ -1,6 +1,7 @@
-#End To End ML Project
+# End To End ML Project
 
-#create a environment
+# create a environment
+
 '''
 conda create -p venv python==3.8
 '''
